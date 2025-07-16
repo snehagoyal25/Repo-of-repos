@@ -1,3 +1,5 @@
+https://100x-b-mcdn.akamai.net.in/cohort-2-slides/Git%20basics%20.pdf//s
+
 Git and Github
 
 What is Version Control system?
